@@ -8,5 +8,5 @@ Specializing in front-end web development for now, may consider mastering full-s
 
 I also have some knowledge and experience with back-end languages/technologies such as SQL (MySQL), PHP and XAMPP.
 
-  ## ☕ Fuel my caffeine addiction
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/rodrigofreitas) 
+##
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/rodrigofreitas) 
